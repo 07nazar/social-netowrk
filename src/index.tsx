@@ -1,7 +1,7 @@
 import {render} from "react-dom";
 import {BrowserRouter} from "react-router-dom";
 import {ThemeProvider} from "app/providers/theme-provider";
-import {App} from "app/App";
+import {App} from "app/app";
 
 
 render(
